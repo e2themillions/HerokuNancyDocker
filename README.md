@@ -1,6 +1,6 @@
 # Heroku + Nancy + Docker + React + Redux
 
-An adjusted version of the Visual Studio template project for __Microsoft .NET Core 2.0 solution with React + Redux__ that is ready for deployment directly to __Heroku__ using Heroku's container deployment with a __Docker container__. Also, the server-side ASP.NET MVC stuff has been replaced with the __Nancy__ framework. Nancy has then been configured to support the sample __React + Redux__ client-side single page app (SPA) to conform to Nancy's super-duper-happy-path! :)
+An adjusted version of the Visual Studio template project for __Microsoft .NET Core 2.1 solution with React + Redux__ that is ready for deployment directly to __Heroku__ using Heroku's container deployment with a __Docker container__. Also, the server-side ASP.NET MVC stuff has been replaced with the __Nancy__ framework. Nancy has then been configured to support the sample __React + Redux__ client-side single page app (SPA) to conform to Nancy's super-duper-happy-path! :)
 
 # The Heroku 2-step approach to deploy your Nancy app to Heroku.
 To build, package and deploy your app, simply execute the two following commands in a command shell (or other terminal like bash etc.)
