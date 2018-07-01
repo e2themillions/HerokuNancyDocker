@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nancy Core - web</title>
+    <base href="~/" />
+
+    <link rel="stylesheet" href="~/dist/vendor.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/dist/site.css" asp-append-version="true" />
+</head>
+<body>
+	<div id="react-app" asp-prerender-module="ClientApp/dist/main-server">Djurtu is loading &hellip;</div>
+
+    <script src="~/dist/vendor.js" asp-append-version="true"></script>
+	<script src="~/dist/main-client.js" asp-append-version="true"></script>
+</body>
+</html>
